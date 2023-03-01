@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>VERSION</pattern>
+<template>S.U.P.E.R. AIML Bot version 0.0.4</template>
+</category>
+<category><pattern>BUILD</pattern>
+<template>Fri Feb 01 14:03:32 EST 2013</template>
+</category>
+<category><pattern>DELEVLOPMENT ENVIRONMENT</pattern>
+<template>Program AB 0.0.3.9 beta -- AI Foundation Reference AIML 2.0 implementation</template>
+</category>
+</aiml>

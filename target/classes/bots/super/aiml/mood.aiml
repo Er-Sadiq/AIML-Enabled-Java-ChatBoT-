@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<category>
+	<pattern>I AM TIRED</pattern>
+	<template>watch this video you shall feel relaxed. 
+           "https://www.youtube.com/watch?v=sJrzI3JedBo" </template>
+</category>
+ <category>
+    <pattern>I AM HUNGRY</pattern>
+     <template> why don't you order yourself some food on zomato 
+   "https://www.zomato.com/india" </template>
+  </category>
+    <category>
+       	<pattern>I AM SAD</pattern>
+       	<template>Everything is gonna be alright,cheer up</template>
+     </category>
+      <category>
+            <pattern>I AM ANGRY</pattern>
+            <template>Calm down please and take a deep breath</template>
+       </category>
+     <category>
+               <pattern>TELL ME A JOKE </pattern>
+             <template>One joke, coming up! What is a sea monster’s favorite snack? Ships and dip.</template>
+     </category>
+      <category>
+         <pattern>TELL ME ANOTHER JOKE </pattern>
+          <template>What’s the difference between a hippo and a zippo?
+          One is really heavy and the other’s a little lighter..</template>
+       </category>
+
+ <category>
+         <pattern>ALRIGHT</pattern>
+          <template>okay, what else you want me to do.</template>
+  </category>
+ <category>
+         <pattern>OKAY</pattern>
+          <template>you are consuming my memory, are you bored ?.</template>
+       </category>
+
+
+</aiml>

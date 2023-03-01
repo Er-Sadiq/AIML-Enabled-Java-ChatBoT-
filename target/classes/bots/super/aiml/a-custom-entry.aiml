@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>WHAT IS JAVA</pattern>
+		<template>Java is a programming language.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS A CHATBOT</pattern>
+		<template>Chatbot is a computer program designed to simulate conversation with human users,
+		especially over the Internet.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS INDIA</pattern>
+		<template>wonderful country.</template>
+	</category>
+	<category>
+            <pattern>WHO MADE YOU</pattern>
+            template>Mr Sadiq Ahmed Killedar programmed me.</template>
+    </category>
+          <category>
+             <pattern>WHO CREATED YOU</pattern>
+              <template>Mr Sadiq Ahmed Killedar Created me.</template>
+         </category>
+<category>
+             <pattern>WHO ARE YOU</pattern>
+              <template>I am a chatbot programmed by Mr Sadiq Ahmed Killedar.</template>
+         </category>
+
+
+</aiml>
